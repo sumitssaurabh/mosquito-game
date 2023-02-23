@@ -1,0 +1,39 @@
+.playground{
+     position :relative;
+     background-color: aqua;
+     /* height: 500px;
+     width: 500px; */
+     float: left;
+     height: 580px;
+     width: 1140px;
+}
+.mosqito{
+    position: relative;
+    height: 80px;
+}
+.h1{
+    color: blue;
+    border-radius: 20px;
+    margin-left: 150px;
+    font-size: 50px;
+}
+
+.btn{
+    cursor: pointer;
+    color: rgb(188, 254, 8);
+    background-color: black;
+    text-align: center;
+    border-radius: 10px;
+    position: relative;
+    margin-left: 10px;
+}
+
+.totalHit{
+    margin-left: 100px;
+    font-size: 50px;
+}
+
+.btn:hover{
+    background-color: rgb(16, 209, 209);
+    color: black;
+}
